@@ -14,7 +14,8 @@ output command told me what the document had been converted to.
 
 ## What was Converted
 This sample of text was taken from A Lady's Delight, written by: Anonymous from Project Gutenburg
-....No more shall _Duchesses_ to _Bath_ repair,
+
+...No more shall _Duchesses_ to _Bath_ repair,
   Or fly to _Tunbridge_ to procure an Heir;
   _Spring-Gardens_ can supply their every Want,
   For here whate'er they ask the Swain wil grant,
@@ -32,3 +33,5 @@ This sample of text was taken from A Lady's Delight, written by: Anonymous from 
   To Glory rose, and by Degrees grew bold;
   A while content the common Road they trod,
   'Till some great Act at last confess the _God_.
+
+Links:
