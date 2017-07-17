@@ -34,8 +34,11 @@ This sample of text was taken from A Lady's Delight, written by: Anonymous from 
   A while content the common Road they trod,
   'Till some great Act at last confess the _God_.
 
-Links:
+Links
 [Download DOCX](https://github.com/jacksotl/jacksotl-convert-documents/raw/master/poetry.docx)
+
 [Download HTML](https://raw.githubusercontent.com/jacksotl/jacksotl-convert-documents/master/poetry.html)
+
 [Download ODT](https://github.com/jacksotl/jacksotl-convert-documents/raw/master/poetry.odt)
+
 [Download PDF](https://github.com/jacksotl/jacksotl-convert-documents/raw/master/poetry.pdf)
