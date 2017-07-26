@@ -17,6 +17,13 @@ The survey questions were:
 4. Hometown?
 5. Favorite place to eat on franklin street?
 
-Link to repository:
+The answers were dumped into a csv file to be stores. The next part of the assignment was to create another
+bash script where mySQL was used to create a database and a datatable to store all of the responses
+from my survey. Variables were also created to put the data into the newly created database and store it in a 
+MySQL file.
 
-Link to Mysql Document
+Link to repository: 
+[See repository](https://github.com/jacksotl/jacksotl-data)
+
+Link to Mysql Document:
+[See MySQL document](https://github.com/jacksotl/jacksotl-data/raw/master/2017-07-25-aboutmesurvey.sql)
