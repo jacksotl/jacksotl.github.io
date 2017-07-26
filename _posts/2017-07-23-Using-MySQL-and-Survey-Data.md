@@ -11,11 +11,11 @@ The unique key for my survey answers was the date and time a person completed th
 
 The survey questions were:
 
-1. 
-2.
-3.
-4.
-5.
+1. How old are you?
+2. Favorite color?
+3. Favorite movie?
+4. Hometown?
+5. Favorite place to eat on franklin street?
 
 Link to repository:
 
